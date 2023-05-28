@@ -1,0 +1,1 @@
+# Draw-a-rectangular-shape-and-extract-objects-using-Python-s-OpenCV
